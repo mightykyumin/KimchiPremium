@@ -33,4 +33,5 @@ Future Plan
 * Update UI with better graphic
 * Trade using this calculator
 * Develop Arbitrage trading bot
+* Use websocket to calculate faster
 
